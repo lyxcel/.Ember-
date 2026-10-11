@@ -1,0 +1,6 @@
+{
+  "name": ".EMBER - Restaurant & Office Food Delivery",
+  "description": "Smart digital restaurant platform for office workers and chefs. Instant desk delivery, live plate counters, Lipa Namba and Selcom payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
